@@ -13,6 +13,7 @@ public class LiKou453 {
     public static void main(String[] args) {
         //{start,end}
         int[][] intervals = {{1, 3}, {1, 4}, {4, 6}, {5, 8}, {7, 8}, {8, 11}};
+//        int[][] intervals = {{-2147483646,-2147483645}, {2147483646,2147483647}};
 //        System.out.println(intervals.length);//行数
 //        System.out.println(intervals[0].length);//列数
         System.out.println(intervalSchedule(intervals));
