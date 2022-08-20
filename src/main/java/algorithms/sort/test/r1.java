@@ -1,4 +1,4 @@
-package test;
+package algorithms.sort.test;
 
 import java.util.HashMap;
 import java.util.Map;
