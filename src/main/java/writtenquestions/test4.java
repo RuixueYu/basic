@@ -1,4 +1,4 @@
-package algorithms.sort.test;
+package writtenquestions;
 
 /**
  * @Author: YuRuixue

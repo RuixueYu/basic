@@ -1,4 +1,4 @@
-package algorithms.sort.test;
+package writtenquestions;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,7 +1,6 @@
-package algorithms.sort.test;
+package writtenquestions;
 
 import java.util.HashSet;
-import java.util.List;
 import java.util.Scanner;
 
 /**
